@@ -325,12 +325,6 @@
             <artifactId>commons-beanutils</artifactId>
             <groupId>commons-beanutils</groupId>
             <version>1.9.4</version>
-            <exclusions>
-                <exclusion>
-                    <groupId>commons-collections</groupId>
-                    <artifactId>commons-collections</artifactId>
-                </exclusion>
-            </exclusions>
         </dependency>
         <dependency>
             <groupId>net.lingala.zip4j</groupId>
