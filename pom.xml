@@ -442,9 +442,9 @@
                         </executions>
                         <dependencies>
                             <dependency>
-                                <groupId>org.apache.groovy</groupId>
-                                <artifactId>groovy</artifactId>
-                                <version>4.0.23</version>
+                                <groupId>org.codehaus.groovy</groupId>
+                                <artifactId>groovy-all</artifactId>
+                                <version>2.4.21</version>
                             </dependency>
                         </dependencies>
                     </plugin>
